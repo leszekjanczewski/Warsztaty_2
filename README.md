@@ -7,26 +7,26 @@
 - [ ] Stwórz plik, który będzie służył do łączenia się z bazą danych
 
 ## Zadanie 2 - *z wykładowcą*
-- [] Podczas ćwiczeń z wykładowcą, stwórz szkielet aplikacji i klasę User (na podstawie schematu z prezentacji)
+- [ ] Podczas ćwiczeń z wykładowcą, stwórz szkielet aplikacji i klasę User (na podstawie schematu z prezentacji)
 
 ## Zadanie 3
-- [] Stwórz wszystkie tabele w bazie danych potrzebne do działania programu
-- [] Pamiętaj o dodaniu kluczy głównych oraz powiązań między tabelami
+- [ ] Stwórz wszystkie tabele w bazie danych potrzebne do działania programu
+- [ ] Pamiętaj o dodaniu kluczy głównych oraz powiązań między tabelami
 
 ## Zadanie 4
 - Pozostałe klasy - Utwórz implementację pozostałych klas:
-  - [] Group
-  - [] Exercise
-  - [] Solution
- - Metody - Dla każdej klasy utwórz odpowiednie metody:
-  - [] loadAll
-  - [] loadById
-  - [] delete
-  - [] saveToDB
+  - [ ] Group
+  - [ ] Exercise
+  - [ ] Solution
+- Metody - Dla każdej klasy utwórz odpowiednie metody:
+  - [ ] loadAll
+  - [ ] loadById
+  - [ ] delete
+  - [ ] saveToDB
  
  ## Zadanie 5
  Dodatkowe metody:
  - Utwórz implementację dodatkowych metod realizujących zadania:
-  - [] pobranie wszystkich rozwiązań danego użytkownika (dopisz metodę 'loadAllByUserId' do klasy 'Solution'),
-  - [] pobranie wszystkich rozwiązań danego zadania, posortowanych od najnowszego do najstarszego (dopisz metodę 'loadAllByExerciseId' do klasy 'Solution'),
-  - [] pobranie wszystkich członków danej grupy (dopisz metodę 'loadAllByGroupId' do klasy 'User').
+   - [ ] pobranie wszystkich rozwiązań danego użytkownika (dopisz metodę 'loadAllByUserId' do klasy 'Solution'),
+   - [ ] pobranie wszystkich rozwiązań danego zadania, posortowanych od najnowszego do najstarszego (dopisz metodę 'loadAllByExerciseId' do klasy 'Solution'),
+   - [ ] pobranie wszystkich członków danej grupy (dopisz metodę 'loadAllByGroupId' do klasy 'User').
