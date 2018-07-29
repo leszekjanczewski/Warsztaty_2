@@ -1,4 +1,9 @@
-# Warsztaty_2 - Zadania
+# Warsztaty 2 - Zadania
+Celem warsztatów jest napisanie obiektowej, bazodanowej warstwy aplikacji dla szkoły programowania. 
+Aplikacja będzie zawierać część potencjalnych funkcjonalności – przechowywanie rozwiązań do zadań, wykonywanych przez kursantów.
+Podczas kolejnych warsztatów zajmiemy się oprogramowaniem interfejsu użytkownika dla naszej
+aplikacji.
+**Weryfikacja działania** powinna nastąpić poprzez wywołanie metod w programach opisanych w dalszej części.
 ## Zadanie 1
 - [x] Przygotuj folder pod aplikację
 - [x] Załóż nowe repozytorium git na GitHubie i nową bazę danych
