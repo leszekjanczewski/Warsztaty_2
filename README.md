@@ -4,7 +4,7 @@ Aplikacja będzie zawierać część potencjalnych funkcjonalności – przechow
 Podczas kolejnych warsztatów zajmiemy się oprogramowaniem interfejsu użytkownika dla naszej
 aplikacji.
 **Weryfikacja działania** powinna nastąpić poprzez wywołanie metod w programach opisanych w dalszej części.
-![schemat] (Screenshot%20from%202018-07-29%2015-39-14.png)
+![schemat](Screenshot%20from%202018-07-29%2015-39-14.png)
 ## Zadanie 1
 - [x] Przygotuj folder pod aplikację
 - [x] Załóż nowe repozytorium git na GitHubie i nową bazę danych
