@@ -3,8 +3,8 @@ Celem warsztatów jest napisanie obiektowej, bazodanowej warstwy aplikacji dla s
 Aplikacja będzie zawierać część potencjalnych funkcjonalności – przechowywanie rozwiązań do zadań, wykonywanych przez kursantów.
 Podczas kolejnych warsztatów zajmiemy się oprogramowaniem interfejsu użytkownika dla naszej
 aplikacji.
-![schemat] (https://github.com/leszekjanczewski/Warsztaty_2/blob/master/Screenshot%20from%202018-07-29%2015-39-14.png)
 **Weryfikacja działania** powinna nastąpić poprzez wywołanie metod w programach opisanych w dalszej części.
+![schemat] (Screenshot%20from%202018-07-29%2015-39-14.png)
 ## Zadanie 1
 - [x] Przygotuj folder pod aplikację
 - [x] Załóż nowe repozytorium git na GitHubie i nową bazę danych
