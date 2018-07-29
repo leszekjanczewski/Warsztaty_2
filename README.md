@@ -32,6 +32,6 @@ aplikacji.
  ## Zadanie 5
  Dodatkowe metody:
  - Utwórz implementację dodatkowych metod realizujących zadania:
-   - [ ] pobranie wszystkich rozwiązań danego użytkownika (dopisz metodę 'loadAllByUserId' do klasy 'Solution'),
-   - [ ] pobranie wszystkich rozwiązań danego zadania, posortowanych od najnowszego do najstarszego (dopisz metodę 'loadAllByExerciseId' do klasy 'Solution'),
-   - [ ] pobranie wszystkich członków danej grupy (dopisz metodę 'loadAllByGroupId' do klasy 'User').
+   - [ ] pobranie wszystkich rozwiązań danego użytkownika (dopisz metodę `loadAllByUserId` do klasy `Solution`),
+   - [ ] pobranie wszystkich rozwiązań danego zadania, posortowanych od najnowszego do najstarszego (dopisz metodę `loadAllByExerciseId` do klasy `Solution`),
+   - [ ] pobranie wszystkich członków danej grupy (dopisz metodę `loadAllByGroupId` do klasy `User`).
