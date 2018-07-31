@@ -18,7 +18,7 @@ aplikacji.
 
 ## Zadanie 3
 - [x] Stwórz wszystkie tabele w bazie danych potrzebne do działania programu
-- [ ] Pamiętaj o dodaniu kluczy głównych oraz powiązań między tabelami
+- [x] Pamiętaj o dodaniu kluczy głównych oraz powiązań między tabelami
 
 ## Zadanie 4
 - Pozostałe klasy - Utwórz implementację pozostałych klas:
