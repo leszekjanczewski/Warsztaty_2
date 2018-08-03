@@ -3,9 +3,17 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class DBUtils {
-    public static Connection getConnection() throws SQLException {
-       Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/warsztaty_2?useSSL=false", "root", "coderslab");
+    static private String url = "jdbc:mysql://localhost:3306/warsztaty_2?useSSL=false";
+    static private String user = "root";
+    static private String password = "coderslab";
+    static private Connection conn;
 
-       return connection;
+    static public Connection getConnection() {
+        try {
+            conn = DriverManager.getConnection(url, user, password);
+        } catch (SQLException e) {
+            System.err.println("Brak połączenia z bazą danych");
+        }
+        return conn;
     }
 }
