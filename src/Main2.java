@@ -16,7 +16,7 @@ public class Main2 {
 //                System.out.println(user.getPassword());
 
                 for (User ele : User.loadAll(conn)) {
-                System.out.println(ele.getId() + ", " + ele.getUsername() + ", " + ele.getEmail() + ", " + ele.getPassword());
+                System.out.println((char)27 + "[33m" + ele.getId() + ", " + ele.getUsername() + ", " + ele.getEmail() + ", " + ele.getPassword());
                 }
 
             } catch (SQLException e) {

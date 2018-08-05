@@ -64,8 +64,8 @@ public class User {
 
     }
 
-    public void delete(int id) {
-
+    public void delete(Connection conn, int id) {
+        String sql = "DELETE ";
     }
 
     static public User[] loadAll(Connection conn) throws SQLException {

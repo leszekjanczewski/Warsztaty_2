@@ -30,15 +30,15 @@ public class Main {
             e.printStackTrace();
         }
 
-//        int i = 0;
+//        int yourChoice = 0;
 //        while (i != 2) {
 //            System.out.println("1 - ");
 //            i = scanner.nextInt();
 //            switch (i) {
-//                case 1:
+//                case 1: // menu admin (add elements in base, delete elements in base, update elments in base, show user by id, by username)
 //                    System.out.println("Wybrałeś jeden");
 //                    break;
-//                case 2:
+//                case 2: // menu user (add
 //                    System.out.println("Wybrałeś dwa");
 //                    break;
 //
